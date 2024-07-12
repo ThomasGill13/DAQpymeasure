@@ -8,4 +8,3 @@ Simple pymeasure program to interface with DAQmx
 - scipy
 - pylablib (use lightweight installation)
 - nidaqmx
-- pywin32
